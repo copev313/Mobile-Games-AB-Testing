@@ -1,2 +1,3 @@
 # Mobile-Games-AB-Testing
- Analyze an A/B test from the popular mobile puzzle game, Cookie Cats.
+
+In this project, we analyze the mobile game Cookie Cats, a hugely popular puzzle game developed by Tactile Entertainment. It's a classic "connect three" style puzzle game where the player must connect tiles of the same color in order to clear the board and win the level. As players progress through the game they will encounter gates that force them to wait some time before they can progress or make an in-app purchase. We analyze the result of an A/B test where the first gate in Cookie Cats was moved from level 30 to level 40. In particular, we analyze the impact on player retention.
